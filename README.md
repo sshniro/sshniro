@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nirojan 👋</h1>
 
 <p align="center">
-  <em>Head of Engineering · Builder · Open-source contributor</em><br/>
+  <em>Head of Engineering · Apache Software Foundation PMC member · AWS Solutions Architect</em><br/>
   Colombo, Sri Lanka 🇱🇰
 </p>
 
@@ -17,7 +17,10 @@
 
 I lead engineering teams that build SaaS products from a blank canvas — distributed systems, API gateways, security tooling, and the occasional hardware side-quest. Over the last decade I've shipped products at startups, contributed to widely-used open source, and written about most of it along the way.
 
-These days I'm Head of Engineering at **Revocare**.
+- 🪶  **PMC member at the [Apache Software Foundation](https://www.apache.org/)** — helping steward open governance and releases.
+- ☁️  **Veteran AWS Solutions Architect** — designing resilient, cost-aware cloud systems.
+- 🛡️  Long-time contributor to the **OWASP** application-security ecosystem.
+- 🧑‍💼 Head of Engineering at **Revocare**.
 
 ---
 
@@ -38,8 +41,6 @@ A few projects you may have already used without realising it:
 ### 🧪 Side-projects & experiments
 
 - 🔍 **[line-segmentation-algorithm-to-gcp-vision](https://github.com/sshniro/line-segmentation-algorithm-to-gcp-vision)** — turns Google Vision's word-level OCR into line-level structure (Kotlin, 96⭐).
-- 📄 **[pdf-data-extractor](https://github.com/sshniro/pdf-data-extractor)** — template-based PDF data extraction.
-- 🧾 **[receipt-data-extraction](https://github.com/sshniro/receipt-data-extraction)** — OCR + regex IR for invoices.
 - 🏛️ **[bim-visualizer](https://github.com/sshniro/bim-visualizer)** — browser-based BIM model viewer.
 - 🪞 **A tabletop hologram projector** — yes, with mirrors and Pepper's-ghost optics. [Write-up here](https://sshniro.medium.com/building-a-table-top-hologram-projector-1b76b69e44dc).
 
